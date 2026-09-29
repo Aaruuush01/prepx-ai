@@ -1,0 +1,9 @@
+Software Engineering Intern
+
+Responsibilities:
+- Build Python services and machine learning prototypes.
+- Work with data structures and algorithms.
+- Use SQL and Git in production workflows.
+- Collaborate on AI/ML features.
+- Understand OOP and computer science fundamentals.
+- Exposure to MongoDB, cloud and modern software development is a plus.

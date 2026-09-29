@@ -1,0 +1,15 @@
+Aarush Aryan
+BTech Computer Science Engineering
+
+Skills: Python, C, Java, SQL, Git, GitHub, MongoDB, Machine Learning, OOP, DSA
+
+Projects:
+- FarmLink AI: price discovery and market linkage platform using Python, ML and MongoDB.
+- Smart Campus: Python OOP application with a desktop GUI.
+
+Experience:
+- Software/AI internship experience.
+- Campus/community ambassador activities.
+
+Goal:
+Software Engineer / AI-ML Intern
